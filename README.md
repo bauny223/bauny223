@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**bauny223/bauny223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou a Bauny⋆, estudante de Análise e Desenvolvimento de Sistemas (ADS) — 1º semestre — na Grande São Paulo.
 
-Here are some ideas to get you started:
+Vim da Publicidade e agora tô migrando pra Tecnologia. Ainda no começo, aprendendo aos poucos e construindo meu portfólio conforme evoluo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minha linguagem principal hoje é JavaScript, com um pouquinho de C# também na bagagem. Estou dando os primeiros passos em Python e Java pela faculdade.
+
+🚧 Primeiros projetos a caminho — em breve por aqui!
+
+**Fun Facts:**
+✨ Sou fã de anime — *Hunter x Hunter* é o meu favorito
+📢 Vim da área de Publicidade antes de migrar pra tech
+🐟 Gosto de pescar no Stardew Valley
