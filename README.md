@@ -9,6 +9,6 @@ Minha linguagem principal hoje é JavaScript, com um pouquinho de C# também na 
 🚧 Primeiros projetos a caminho — em breve por aqui!
 
 **Fun Facts:**
-✨ Sou fã de anime — *Hunter x Hunter* é o meu favorito
-📢 Vim da área de Publicidade antes de migrar pra tech
-🐟 Gosto de pescar no Stardew Valley
+- ✨ Sou fã de anime — *Hunter x Hunter* é o meu favorito
+- 📢 Vim da área de Publicidade antes de migrar pra tech
+- 🐟 Gosto de pescar no Stardew Valley
